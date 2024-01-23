@@ -1,0 +1,11 @@
+!<arch>
+mbtowc.o/       0           0     0     644     0         `
+wctomb.o/       0           0     0     644     0         `
+wctype.o/       0           0     0     644     0         `
+mbstowcs.o/     0           0     0     644     0         `
+wcwidth.o/      0           0     0     644     0         `
+wcslen.o/       0           0     0     644     0         `
+wcsncmp.o/      0           0     0     644     0         `
+mbrtowc.o/      0           0     0     644     0         `
+wctfunc.o/      0           0     0     644     0         `
+mblen.o/        0           0     0     644     0         `
